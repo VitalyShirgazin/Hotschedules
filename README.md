@@ -7,3 +7,9 @@ Automation for break on Hotschedule.com (by steps)
 5. Run send_log_email.py
 
 Or just run walkthough.py
+
+List of variables:
+export HS_USERNAME="myusername"
+export HS_PASSWORD="mypassword"
+export HS_POS_ID="123456"
+
